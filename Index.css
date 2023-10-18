@@ -1,0 +1,150 @@
+
+body {
+    background-color:rgb(139,0,0,0.33)
+}
+.main {
+    font-family: 'Source code pro', Arial, Helvetica, sans-serif;
+}
+
+.box_1 {
+    border: 2px solid gray;
+    margin: 10px auto;
+}
+.box_2 {
+    border: 2px solid gray;
+    margin: 10px auto;
+}
+.box_3 {
+    border: 2px solid gray;
+    margin: 10px auto;
+}
+
+.header {
+    text-align: left;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Source code pro', Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 300;
+    margin: 8px;
+}
+div {
+    display: block;
+
+}
+.color_containder {
+    width: 100%;
+
+}
+.color_panel {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    margin: 20px auto;
+    font-family: 'Young', 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+}
+
+.color_blue {
+    background-color: RGB(30,144,255);
+    border: 1px black solid;
+}
+
+.color_green {
+    background-color: RGB(0,100,0);
+    border: 1px black solid;
+}
+.color_yellow {
+    background-color: rgb(255,255,0);
+    border: 1px black solid;
+}
+.color_violet {
+    background-color: rgb(139,0,139);
+    border: 1px black solid;
+}
+.color_orange {
+    background-color: rgb(255,69,0);
+    border: 1px black solid;
+}
+.color_brown {
+    background-color: rgb(139,69,19);
+    border: 1px black solid;
+}
+
+
+.font-panel {
+    margin-left: 130px;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 17px;
+}
+.top {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.sourcel {
+    font-family: 'Source code pro';
+}
+
+.sourcei {
+    font-family: 'Source code pro';
+    font-style: italic;
+}
+.sourceb {
+    font-family: 'Source code pro';
+    font-weight: bold;
+}
+
+.Nunitol {
+    font-family: 'Nunito Sans';
+}
+.Nunitoi {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+}
+
+.Nunitob {
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+}
+
+.poppinsl {
+    font-family: 'Poppins';
+}
+.poppinsi {
+    font-family: 'Poppins';
+    font-style: italic;
+}
+.poppinsb {
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+.text-styles-containder {
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 5px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.text-styles-panel1 {
+    font-family: 'Source code pro',Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.text-styles-panel2 {
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+}
+.text-styles-panel3 {
+    font-family: 'Nunito Sans',Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+}
